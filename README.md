@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @QueryKnight
-- 👀 I’m interested in traveling
-- 🌱 I’m currently learning Data anlyst
+- 👀 I’m 📊 Data Analyst 
+- 💡 Passionate about Data Visualization using Power BI
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Linkdin
+- 💻 Always exploring 🔍new ways to tell data stories
 - ⚡ Fun fact: Octopuses have three hearts!
 -  😄  😄  😄  😄  😄  😄  😄  😄  😄  😄 
 
